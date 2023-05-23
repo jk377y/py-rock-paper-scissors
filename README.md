@@ -14,8 +14,8 @@ To install this game, simply clone the repository and run the paper_rock_scissor
 
 ## *Usage*
 When prompted:<br>
-Enter '1', '2', or '3' to select your choice of paper, rock, or scissors.  
-Enter 'q' to quit and see the totals.
+Press 1, 2, or 3 to select your choice of paper, rock, or scissors.  
+Press 'q' to quit and see the totals.
 <br>
 
 ![gamestart](images/screenshot.JPG)
