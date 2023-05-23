@@ -16,7 +16,6 @@ To install this game, simply clone the repository and run the paper_rock_scissor
 When prompted: Enter '1', '2', or '3' to select your choice of paper, rock, or scissors.  
 Enter 'q' to quit and see the totals.
 <br>
-<br>
 
 ![gamestart](images/screenshot.JPG)
 <br>
