@@ -4,7 +4,6 @@ My first Python app
 ## *Description*
 This is a simple game of Paper Rock Scissors. The user will be prompted to enter their choice of paper, rock, or scissors. The computer will then randomly select one of the three options. The user will then be notified if they won, lost, or tied. When the user decides to end the game a message will be displayed showing the number of wins, losses, and ties.
 <br>
-<br>
 
 ## *Installation*
 To install this game, simply clone the repository and run the paper_rock_scissors.py file in your terminal.
