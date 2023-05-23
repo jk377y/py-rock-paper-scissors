@@ -1,4 +1,6 @@
-# Paper Rock Scissors
+# Paper Rock Scissors 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 My first Python app
 
 ## *Description*
